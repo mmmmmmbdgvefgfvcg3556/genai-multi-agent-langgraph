@@ -1,3 +1,5 @@
+# genai-multi-agent-langgraph
+Multi-Agent GenAI system using LangChain and LangGraph
 ## Requirements
 
 The `requirements.txt` file contains all the Python dependencies required to run this project.
